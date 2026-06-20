@@ -156,11 +156,13 @@ top contributing factors for that prediction.
 - Periodically retrain and monitor for feature-importance drift, since bot operators actively adapt to
   evade detection.
 
-## 📄 License
 
-This project is released under the MIT License.
 
 ---
 
-*Built as a portfolio project demonstrating end-to-end ML/NLP workflow design, experiment design,
-model comparison, explainability, and deployment.*
+## 👤 Author
+
+ Data Scientist | ML Engineer  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariam-kedr-mariamahmed)
+---
