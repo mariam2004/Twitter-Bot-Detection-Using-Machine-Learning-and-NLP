@@ -10,7 +10,6 @@
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple.svg)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-red.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 ---
 
